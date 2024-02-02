@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  Lib.cpp
+C:\course2\KII-2023\Lib\Lib.cpp(18,22): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(8,16): warning C4101: t: неиспользованная локальная переменная
+C:\course2\KII-2023\Lib\Lib.cpp(7,8): warning C4101: buffer: неиспользованная локальная переменная
+C:\course2\KII-2023\Lib\Lib.cpp(114,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(128,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(131,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(134,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(137,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(140,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(143,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(146,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(149,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(152,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(155,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(166,19): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(203,22): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+C:\course2\KII-2023\Lib\Lib.cpp(193,8): warning C4101: buffer: неиспользованная локальная переменная
+  Lib.vcxproj -> C:\AiSD\KII\x64\Debug\Lib.lib

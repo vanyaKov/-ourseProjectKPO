@@ -1,0 +1,96 @@
+﻿  stdafx.cpp
+  CodeGeneration.cpp
+  Div.cpp
+  Error.cpp
+  FST.cpp
+C:\course2.0\KII-2023\LPLab10_git\FST.cpp(21,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\course2.0\KII-2023\LPLab10_git\FST.cpp(64,16): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  Greibach.cpp
+  in.cpp
+C:\course2.0\KII-2023\LPLab10_git\in.cpp(28,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\course2.0\KII-2023\LPLab10_git\in.cpp(32,11): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "ERROR_THROW_IN"
+  IT.cpp
+  LexAnaliz.cpp
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(255,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(258,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(261,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(264,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(267,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(270,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(273,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(276,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(279,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(306,26): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(337,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(340,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(343,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(346,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(349,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(352,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(355,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(358,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(361,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(387,26): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(415,19): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(439,26): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(473,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(476,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(479,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(482,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(485,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(488,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(491,18): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(517,26): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(145,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(176,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(177,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(205,6): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(206,16): warning C4996: '_mbscat': This function or variable may be unsafe. Consider using _mbscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(230,6): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(231,6): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(235,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(310,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(311,15): warning C4996: '_mbscat': This function or variable may be unsafe. Consider using _mbscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(312,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(392,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(393,15): warning C4996: '_mbscat': This function or variable may be unsafe. Consider using _mbscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(394,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(444,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(445,15): warning C4996: '_mbscat': This function or variable may be unsafe. Consider using _mbscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(446,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(522,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(523,15): warning C4996: '_mbscat': This function or variable may be unsafe. Consider using _mbscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(524,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(554,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(561,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(562,19): warning C4996: '_mbscat': This function or variable may be unsafe. Consider using _mbscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(563,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(572,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(583,5): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\course2.0\KII-2023\LPLab10_git\LexAnaliz.cpp(645,6): warning C4996: '_mbscpy': This function or variable may be unsafe. Consider using _mbscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Log.cpp
+  LT.cpp
+  MFST.cpp
+C:\course2.0\KII-2023\LPLab10_git\MFST.cpp(247,66): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Parm.cpp
+  PolishNotation.cpp
+  semantics.cpp
+  Test_Log.cpp
+C:\course2.0\KII-2023\Lib\Lib.cpp(130,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(133,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(136,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(139,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(142,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(145,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(148,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(151,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(154,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(157,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(168,19): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(205,22): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(195,8): warning C4101: buffer: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 559 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  LPLab10_git.vcxproj -> C:\course2.0\KII-2023\Release\KII.exe

@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  Lib.cpp
+C:\course2.0\KII-2023\Lib\Lib.cpp(130,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(133,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(136,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(139,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(142,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(145,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(148,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(151,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(154,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(157,32): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(168,19): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(205,22): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+C:\course2.0\KII-2023\Lib\Lib.cpp(195,8): warning C4101: buffer: неиспользованная локальная переменная
+  Lib.vcxproj -> C:\course2.0\KII-2023\Debug\Lib.lib

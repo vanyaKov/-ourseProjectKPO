@@ -1,0 +1,167 @@
+.586
+.model flat, stdcall
+
+includelib libucrt.lib
+includelib kernel32.lib
+includelib Lib.lib
+
+ShowInt PROTO : DWORD, : DWORD, : DWORD
+ShowChar PROTO : DWORD, : DWORD
+CharToInt PROTO : DWORD, : DWORD
+ShowString PROTO : DWORD, : DWORD, : DWORD
+ShowBool PROTO : DWORD, : DWORD
+inv PROTO : DWORD
+StringToInt PROTO : DWORD, : DWORD
+translate PROTO : DWORD, : DWORD, : DWORD
+cmpstr PROTO : DWORD, : DWORD
+cmpuint PROTO : DWORD, : DWORD
+ExitProcess PROTO : DWORD
+stop PROTO
+funcfa PROTO :DWORD 
+
+.stack 4096
+
+.const
+L1 DWORD 0
+systemL1 DWORD 10
+L2 DWORD 1
+systemL2 DWORD 10
+L3 DWORD 'n','u','m','b','e','r',' '
+L4 DWORD 10
+systemL4 DWORD 10
+L5 DWORD 5
+systemL5 DWORD 10
+L6 DWORD 8
+systemL6 DWORD 10
+L7 DWORD 3
+systemL7 DWORD 10
+L8 DWORD 2
+systemL8 DWORD 10
+L9 DWORD 'q'
+L10 DWORD '1','2','5'
+
+.data
+systemfaa DWORD 10
+fab DWORD 0
+fac DWORD 0
+maina DWORD 0
+systemmaina DWORD 10
+mainc DWORD 0
+mainb DWORD 0
+
+.CODE
+funcfa PROC faa :DWORD 
+push faa
+push L1
+call cmpuint
+push eax
+pop eax
+mov fab,eax
+mov eax ,fab
+cmp eax,0
+je else0
+push L2
+pop eax
+RET
+call  go0
+else0:
+mov esi, offset L3
+mov ecx, LENGTHOF L3
+mov ebx,ecx
+push 0
+push ebx
+push esi
+call ShowString
+push systemfaa
+push 1
+push faa
+call ShowInt
+push faa
+pop eax
+sub eax,1
+cmp eax, -1
+je exit
+push eax
+pop eax
+mov faa,eax
+push faa
+call funcfa
+push eax
+pop eax
+mov fac,eax
+go0:
+push L1
+pop eax
+RET
+funcfa ENDP
+
+MAIN:
+push L4
+pop eax
+mov maina,eax
+push L5
+call inv
+push eax
+push L6
+push L7
+push L8
+pop eax
+pop ebx
+or eax,ebx
+push eax
+pop eax
+add eax,1
+push eax
+pop eax
+pop ebx
+xor eax,ebx
+push eax
+push L8
+pop eax
+pop ebx
+and eax,ebx
+push eax
+pop eax
+pop ebx
+or eax,ebx
+push eax
+pop eax
+mov maina,eax
+push systemmaina
+push 1
+push maina
+call ShowInt
+push maina
+push systemmaina
+push L8
+call translate
+mov systemmaina,eax
+push systemmaina
+push 1
+push maina
+call ShowInt
+push L9
+pop eax
+mov mainc,eax
+push 1
+push mainc
+call ShowChar
+mov esi, offset L10
+mov ecx, LENGTHOF L10
+mov ebx,ecx
+push ebx
+push esi
+call StringToInt
+cmp eax, -1
+je exit
+mov maina,eax
+push maina
+call funcfa
+push eax
+pop eax
+mov mainb,eax
+call stop
+exit:
+push 0
+call ExitProcess
+END MAIN

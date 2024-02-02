@@ -1,0 +1,4 @@
+D:\Уник\Myyyyyy\KUA-2019\x64\Debug\Lib.pdb
+D:\Уник\Myyyyyy\KUA-2019\Lib\x64\Debug\Lib.pdb
+D:\Уник\Myyyyyy\IVI-2020\x64\Debug\Lib.pdb
+D:\Уник\Myyyyyy\IVI-2020\Lib\x64\Debug\Lib.pdb

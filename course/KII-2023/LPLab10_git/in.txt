@@ -1,0 +1,29 @@
+bool function fa(uint a) { 
+	let bool b;
+	let bool c; 
+	b = cmp(a,0); 
+	if (b) [ 
+		a=a-;
+		result true; 
+	] 
+	else [ 
+		print 'number '; 
+		print a,endl; 
+		a=a-; 
+		c = fa(a); 
+	] 
+	result false; 
+}; 
+main {
+	let uint a = -9; 
+	a = 5~%8^(3%2)+&2; 
+	print a, endl; 
+	let char c = 'q'; 
+	print c, endl; 
+	a = touint '125';
+	print a, endl; 
+	a = 0;
+	let bool b; 
+	b = fa(a);
+	print b, endl; 
+}
